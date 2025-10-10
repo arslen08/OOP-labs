@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/octal_calculator.dir/main.cpp.o CMakeFiles/octal_calculator.dir/src/octal.cpp.o  -o octal_calculator 

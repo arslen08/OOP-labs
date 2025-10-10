@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seaspray/projects/helloworld/OOP-labs/lab2/includes/octal.hpp
+iostream
+-
+string
+-
+initializer_list
+-
+stdexcept
+-
+algorithm
+-
+
+/home/seaspray/projects/helloworld/OOP-labs/lab2/main.cpp
+includes/octal.hpp
+/home/seaspray/projects/helloworld/OOP-labs/lab2/includes/octal.hpp
+
