@@ -4,7 +4,7 @@ project(OctalCalculator)
 set(CMAKE_CXX_STANDARD 11)
 
 set(GTEST_DIR "${CMAKE_SOURCE_DIR}/../googletest")
-
+na
 if(EXISTS ${GTEST_DIR}/CMakeLists.txt)
     message(STATUS "Found GoogleTest at: ${GTEST_DIR}")
     add_subdirectory(${GTEST_DIR} googletest-build)
