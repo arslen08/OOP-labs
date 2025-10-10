@@ -1,0 +1,6 @@
+*
+
+!/src/
+!/includes/
+!/main.cpp
+!/.gitignore
