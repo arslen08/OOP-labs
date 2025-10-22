@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# But don't ignore these files and directories
+!.gitignore
+!includes/
+!src/
+!main.cpp
+
+# Don't ignore files inside includes and src directories
+!includes/**
+!src/**
