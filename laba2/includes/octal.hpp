@@ -17,7 +17,7 @@ private:
 
 public:
     Octal();
-    Octal(const size_t &n, unsigned char value = 0);
+    Octal(const size_t &n, unsigned char value);
     Octal(const std::initializer_list<unsigned char> & values);
     Octal(const std::string &value);
     Octal(const Octal &other);

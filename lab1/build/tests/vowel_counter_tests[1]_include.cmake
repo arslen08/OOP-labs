@@ -1,5 +1,0 @@
-if(EXISTS "/home/seaspray/projects/helloworld/oop/lab1/build/tests/vowel_counter_tests[1]_tests.cmake")
-  include("/home/seaspray/projects/helloworld/oop/lab1/build/tests/vowel_counter_tests[1]_tests.cmake")
-else()
-  add_test(vowel_counter_tests_NOT_BUILT vowel_counter_tests_NOT_BUILT)
-endif()
